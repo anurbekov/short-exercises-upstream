@@ -8,7 +8,7 @@ def two_plus_three():
     """
 
     ### REPLACE 0 WITH 2+3:
-    return 0
+    return 2+3
 
 if __name__=="__main__":
     print("2+3 is", two_plus_three())
